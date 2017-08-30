@@ -1,0 +1,82 @@
+[
+    {
+        "AllocationType":  1,
+        "AppDnaAnalysisState":  null,
+        "AssignedCount":  0,
+        "AvailableAssignedCount":  0,
+        "AvailableCount":  3,
+        "AvailableUnassignedCount":  3,
+        "Description":  null,
+        "HypervisorConnectionUid":  2,
+        "IsRemotePC":  false,
+        "MachinesArePhysical":  false,
+        "MetadataMap":  {
+                            "Citrix_DesktopStudio_IdentityPoolUid":  "ca81979d-9b27-4945-ab38-ffea1b628390",
+                            "TaskData_802053ed-b4dd-4a8f-bf5b-3f6d264ff55e_0":  "ZAUAAB+LCAAAAAAABACdVNtum0AQ/RWE8tA+LCyXBUIJEbJTxUqcRsFNo8pStIbBRjGLu7vYybf1oZ/UX+hiEjvOpYnyAOzMnnM4M8vw9/ef6PC2mmtL4KKs2YFuGVjXgGV1XrLpgd7IAgX6YRyNqLgZsKLmFZUKqCkSE+GtyA/0mZSL0DRXq5WxcoyaT00bY8u8Gp6m2Qwqqm/A5dtgVDIhKctAj6MelXReTwd5jCNzG6y99FV42Zlud5+mOr95HGAbEwdyNHHzHLk0KNCkIBPkFF5ue25REAIduxVOgS/LDNpQ7ERqM594vu1TB1lugZGbuwQFtHCRGxDf2s8KG7wiMnc5TyQsP/dcDwgigAG53j5FAcETlPkOcYosIxicZxLmrqn2MbpbQNzjQCXcd6UrYZ2PUkm5HJUVxDa2fIQDZO+PsBc6TmgRI/A8jxDrp9Ld4KKvJSvF7BnHDy07tDzDdQPLx0RxHgHb90hlo64Wc5CQrwVVIjrn9ZSDELGF1cFsok1+qC46fSgg1xytLtRtWXLZ0LlW0WxWMhDGlvvAiM5qJoFXJVPfIJsecV5zoZlxNARJc9WJrj3b6ATu4uG93gX8akCsjbbp6JLOG4hVv7tF18H/CSX9JMvqhskkaydgR6arRaMdQLxfdEiVJT6oVHk7glf947tFOD6uRVvpd1ZKMT4Duar5zfjH4MxHwyQdHV1on2wbfzaW1bhXSl7eXl/1r7vtXmoIRhdiVsv3u0mbLFO9Lpp5sqnkkanzbxej5HScJqdHKbrsD5Ca3L0vL2TtF7PO3kecPJzfx5w4r/h7zYm5XfbTY1ATMlEn+8ZUPEbe/0y2f8r4H5cBG95kBQAA",
+                            "TaskTimestamp_802053ed-b4dd-4a8f-bf5b-3f6d264ff55e":  "08/29/2017 06:33:16"
+                        },
+        "MinimumFunctionalLevel":  5,
+        "Name":  "SALES MCS",
+        "PersistUserChanges":  1,
+        "ProvisioningSchemeId":  "3bc7adc2-e5e7-4851-b11a-88c052887b2a",
+        "ProvisioningType":  2,
+        "PvsAddress":  null,
+        "PvsDomain":  null,
+        "RemotePCDesktopGroupPriorities":  [
+
+                                           ],
+        "RemotePCDesktopGroupUids":  [
+
+                                     ],
+        "RemotePCHypervisorConnectionUid":  null,
+        "Scopes":  null,
+        "SessionSupport":  0,
+        "TenantId":  null,
+        "UUID":  "0e65f5f0-a73f-4a56-a7cf-42585cfb4166",
+        "Uid":  10,
+        "UnassignedCount":  3,
+        "UsedCount":  0,
+        "ZoneName":  "Primary",
+        "ZoneUid":  "ec8b7e23-845c-4bc0-9aa6-427b6b1195e6"
+    },
+    {
+        "AllocationType":  1,
+        "AppDnaAnalysisState":  null,
+        "AssignedCount":  0,
+        "AvailableAssignedCount":  0,
+        "AvailableCount":  2,
+        "AvailableUnassignedCount":  2,
+        "Description":  null,
+        "HypervisorConnectionUid":  2,
+        "IsRemotePC":  false,
+        "MachinesArePhysical":  false,
+        "MetadataMap":  {
+                            "Citrix_DesktopStudio_IdentityPoolUid":  "d604cf76-774c-4013-9919-2be7e126ea81",
+                            "TaskData_567686ad-1d8b-49ee-9eb1-d57771d1796d_0":  "PQQAAB+LCAAAAAAABACdVF1vmzAU/SsI7dWAIXxFhAo1nRa1aaOCumnai8EXggYms03S/rY+7CftL8yENh/TtE59APlcn3N87+WaX88/o4vHttG2wEXdsZmODUvXgBUdrVk103tZokC/iKOMiO8LVna8JVIRNSViYvoo6ExfS7mZmuZutzN2jtHxyrQtC5tfljdpsYaW6Ady/TYZ1UxIwgrQ4+iSSNJ01YLGVmQewT6XuYIPY9LD7p+hMV8au57vBR6hCNMgR5MQAIWQY0Rd3/cxxX7o0VE9GKfAt3UBAxRnSG2GxC1znLvICjwfTYoSo9wpXQQ4hGBCw4AEyulcc4bFmFT2tIE4oXRJinXNQIyn76NRKgmXWd1CbFvYVychO8hsZ+pOpo5r2I4TYN/+qlwPvOhjzWqx/pvGnVq24TqO4zmD5oQ4nCMhvuzaTQMS6N5QBaIV7yoOQsTYUj09oEN8qR5SKSUHxaca1rpSvbY1lz1ptPalJOOofVVEtx2TwNuaqfFh1RXnHReaGUdLkISqDzc254iu4Sl+bdE9/OhB7BMdwtEDaXqIcWSOi7GD/zJK5klRdD2TSTEM75nNWItGRoL4f9O0LwpVXdk3yUF74ru6u8+Sm2+fF7f+/Cq9zu5WyLImH97jfxyV9/ubx+U8/QRqfnJV9xszc8p8uSXHX0D8G4QJvho9BAAA",
+                            "TaskTimestamp_567686ad-1d8b-49ee-9eb1-d57771d1796d":  "08/28/2017 23:54:37"
+                        },
+        "MinimumFunctionalLevel":  5,
+        "Name":  "WIN7-MCS",
+        "PersistUserChanges":  1,
+        "ProvisioningSchemeId":  "4e110d4a-1a89-4aef-9520-d3ac39284d0e",
+        "ProvisioningType":  2,
+        "PvsAddress":  null,
+        "PvsDomain":  null,
+        "RemotePCDesktopGroupPriorities":  [
+
+                                           ],
+        "RemotePCDesktopGroupUids":  [
+
+                                     ],
+        "RemotePCHypervisorConnectionUid":  null,
+        "Scopes":  null,
+        "SessionSupport":  0,
+        "TenantId":  null,
+        "UUID":  "77373d63-2561-4a11-a65a-954e54c2d258",
+        "Uid":  8,
+        "UnassignedCount":  3,
+        "UsedCount":  1,
+        "ZoneName":  "Primary",
+        "ZoneUid":  "ec8b7e23-845c-4bc0-9aa6-427b6b1195e6"
+    }
+]
